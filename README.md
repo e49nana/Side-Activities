@@ -5,7 +5,7 @@ Independent and experimental projects I develop in parallel with my B.Sc. in App
 ## 🔗 Linked Repositories
 - 🔬 Scientific Simulation:  
   https://github.com/e49nana/Scientific-Simulation-Project  
-- 💹 Algorithmic Trading (C# / NinjaTrader):  
+- 💹 Algorithmic Trading (C# / MQL5):  
   https://github.com/e49nana/Algorithmic-trading  
 - 📚 50 Programming & Technical Projects (difficulty roadmap):  
   https://github.com/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level  
