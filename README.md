@@ -1,89 +1,38 @@
-# 🚀 Side Activities
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6e40c9&height=150&section=header&text=Side%20Activities&fontSize=36&fontColor=58a6ff&fontAlignY=38&desc=Experiments%20%26%20Prototypes&descSize=15&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
 
-> Independent and experimental projects I develop in parallel with my **B.Sc. in Applied Mathematics & Physics**.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-58a6ff?style=for-the-badge)](LICENSE)
 
----
+</div>
 
-## 🎯 Focus Areas
+## About
 
-| Area | Description |
-|------|-------------|
-| 🤖 **AI / ML** | Neural networks, optimization, deep learning experiments |
-| 🔬 **Numerical Simulation** | PDEs, Monte Carlo, computational physics |
-| 💹 **Algorithmic Trading** | Quantitative analysis, backtesting, risk modeling |
-| 💡 **Creative Prototypes** | Exploratory programming & proof of concepts |
+Experimental code and prototypes developed alongside my B.Sc. in Applied Mathematics & Physics. This is my **sandbox** — where ideas get tested before moving to production repos.
 
----
+## Contents
 
-## 📂 What's Inside
+| Project | Description | Status |
+|---------|-------------|:------:|
+| [Gradient Descent Visualizer](optimization/gradient_descent_visualizer.py) | Interactive visualization of gradient descent on 2D functions | Done |
 
-```
-Side-Activities/
-├── ml-experiments/          # Machine learning prototypes
-├── quant-tools/             # Trading & finance utilities
-├── numerical-methods/       # Solvers, simulations
-└── notebooks/               # Jupyter experiments
-```
+## Production Repos
 
----
+When experiments mature, they move to:
+- [Scientific-Simulation-Project](https://github.com/e49nana/Scientific-Simulation-Project) — formal numerical computing
+- [Algorithmic-Trading](https://github.com/e49nana/Algorithmic-trading) — trading tools (TradFi + DeFi)
 
-## 🔥 Highlights
+## Upcoming Experiments
 
-| Tool | Description | File |
-|------|-------------|------|
-| 🎲 Monte Carlo Simulator | Trading simulations, VaR, option pricing | `monte_carlo.py` |
-| 📉 Gradient Descent Viz | Optimization visualization on 2D functions | `gradient_descent_visualizer.py` |
-| 🔢 Linear Algebra Utils | Norms, decompositions, Gram-Schmidt | `linear_algebra_essentials.py` |
-
----
-
-## 🔗 Linked Repositories
-
-| Repo | Focus |
-|------|-------|
-| 🔬 [Scientific-Simulation-Project](https://github.com/e49nana/Scientific-Simulation-Project) | Formal numerical simulations |
-| 💹 [Algorithmic-trading](https://github.com/e49nana/Algorithmic-trading) | Production indicators (C# / MQL5) |
-| 📚 [50-Programming-Projects](https://github.com/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level) | Difficulty roadmap |
-| 🧠 LLM Image Captioning | *Coming soon* |
-
----
-
-## 🔄 Workflow
-
-```
-📖 Theory (Lectures)
-       ↓
-📝 Notes (AMP-Studies)
-       ↓
-🧪 Experiments (Side-Activities)  ← You are here
-       ↓
-⚙️ Production (Algorithmic-trading / Scientific-Simulation)
-```
-
----
-
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/e49nana/Side-Activities.git
-cd Side-Activities
-pip install numpy scipy matplotlib
-python ml-experiments/monte_carlo.py
-```
-
----
-
-## 👤 Author
-
-**Emmanuel Nana Nana**  
-Applied Mathematics & Physics @ TH Nürnberg
-
-[![GitHub](https://img.shields.io/badge/GitHub-e49nana-181717?style=flat&logo=github)](https://github.com/e49nana)
+- [ ] Monte Carlo option pricing
+- [ ] Neural network from scratch (NumPy only)
+- [ ] Reinforcement learning for trading
 
 ---
 
 *"Move fast, experiment often, learn constantly."*
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6e40c9&height=80&section=footer" width="100%"/>
+</div>
